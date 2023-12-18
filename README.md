@@ -74,5 +74,5 @@ Fast R-CNN uses an algorithm like Edge Boxes to generate region proposals. Unlik
 The Faster R-CNN detector adds a region proposal network (RPN) to generate region proposals directly in the network instead of using an external algorithm like Edge Boxes. The RPN uses Anchor Boxes for Object Detection. Generating region proposals in the network is faster and better tuned to your data. 
 ![RCNN_eg](https://github.com/Sazad123/SazRep/assets/119056368/d4c26cff-dc1f-4d42-af47-758cbe0b3056)
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**-------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
