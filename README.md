@@ -29,8 +29,8 @@ There are many applications of Neural Networkss. Some of them are:
    * Accurately subtitle videos and meeting recordings for wider content reach.
 
 #### 3) Natural Language Processing :   
-    Natural language processing (NLP) is the ability to process natural, human-created text. Neural networks help computers gather insights and meaning from 
-    text data and documents. NLP has several use cases, including in these functions:   
+    Natural language processing (NLP) is the ability to process natural, human-created text. Neural networks help computers gather insights and meaning 
+    from text data and documents. NLP has several use cases, including in these functions:   
     * Automated virtual agents and chatbots.  
     * Automatic organization and classification of written data.  
     * Business intelligence analysis of long-form documents like emails and forms.  
